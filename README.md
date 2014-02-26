@@ -8,6 +8,6 @@ http://hkusu.github.io/jp_featurephone_fash_vibration_demo/
 
 ここで利用しているFlashのflaファイルは、このリポジトリの `vibration-after10sec.fla` です。上原くんサンクス！
 
-## 参考URL：
+### 参考URL：
 
 [fscommand2コマンド](http://help.adobe.com/ja_JP/FlashLite/2.0_FlashLiteAPIReference2/WS5b3ccc516d4fbf351e63e3d118d1ff2a53-7c4e.html)
