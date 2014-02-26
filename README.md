@@ -4,8 +4,7 @@
 
 ※フィーチャーフォンで閲覧してください
 
-ここで利用しているFlashのflaファイルは、このリポジトリの `vibration-after10sec.fla` です。
-
+ここで利用しているFlashのflaファイルは、このリポジトリの `vibration-after10sec.fla` です。上原くんサンクス！
 
 
 
